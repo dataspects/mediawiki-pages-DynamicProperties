@@ -12,7 +12,7 @@
         {
           "name": "Annotation",
           "namespace": "NS_TEMPLATE",
-          "url": "https://raw.githubusercontent.com//dataspects/mediawiki-pages-DynamicProperties/master/Template/Annotation.mediawiki"
+          "url": "https://raw.githubusercontent.com//dataspects/mediawiki-pages-DynamicProperties/master/Template%2FAnnotation.mediawiki"
         }
       ],
       "requiredExtensions": ["PageForms", "SemanticMediaWiki"]
