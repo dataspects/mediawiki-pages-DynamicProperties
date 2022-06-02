@@ -18,6 +18,11 @@
           "name": "ForTemplateAnnotation",
           "namespace": "NS_TEMPLATE",
           "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/ForTemplateAnnotation.mediawiki"
+        },
+        {
+          "name": "AnnotationsList",
+          "namespace": "NS_TEMPLATE",
+          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/AnnotationsList.mediawiki"
         }
       ],
       "requiredExtensions": ["PageForms", "SemanticMediaWiki"]

@@ -1,0 +1,10 @@
+{{#ask:[[-Has subobject::{{FULLPAGENAME}}]][[AnnotationPredicate::+]]
+|mainlabel=-
+|?AnnotationPredicate
+|?AnnotationObject
+|?AnnotationType
+|sort=AnnotationPredicate
+|format=template
+|template=AnnotationResultItem
+|link=none
+}}
