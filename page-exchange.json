@@ -28,6 +28,16 @@
           "name": "AnnotationResultItem",
           "namespace": "NS_TEMPLATE",
           "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/AnnotationResultItem.mediawiki"
+        },
+        {
+          "name": "PropName",
+          "namespace": "NS_TEMPLATE",
+          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/PropName.mediawiki"
+        },
+        {
+          "name": "PropVal",
+          "namespace": "NS_TEMPLATE",
+          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/PropVal.mediawiki"
         }
       ],
       "requiredExtensions": ["PageForms", "SemanticMediaWiki"]
