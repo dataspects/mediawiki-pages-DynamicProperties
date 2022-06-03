@@ -1,4 +1,4 @@
-{{#ask:[[-Has subobject::{{#if:{{{1}}}|{{{1}}}|{{FULLPAGENAME}}}}]][[AnnotationPredicate::+]]
+{{#ask:[[-Has subobject::{{#if:{{{1|}}}|{{{1}}}|{{FULLPAGENAME}}}}]][[AnnotationPredicate::+]]
 |mainlabel=-
 |?AnnotationPredicate
 |?AnnotationObject
