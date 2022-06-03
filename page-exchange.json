@@ -38,6 +38,16 @@
           "name": "PropVal",
           "namespace": "NS_TEMPLATE",
           "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/PropVal.mediawiki"
+        },
+        {
+          "name": "PropertyPage",
+          "namespace": "NS_TEMPLATE",
+          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/PropertyPage.mediawiki"
+        },
+        {
+          "name": "StatementsTableRow",
+          "namespace": "NS_TEMPLATE",
+          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/StatementsTableRow.mediawiki"
         }
       ],
       "requiredExtensions": ["PageForms", "SemanticMediaWiki"]

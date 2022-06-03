@@ -1,6 +1,6 @@
 <includeonly>
- Has type::'''[[Has type::{{{SMWHasType|Text}}}]]'''
- Predicate class is '''[[HasPredicateClass::{{{PredicateClass|Property}}}]]'''
+* Has type::'''[[Has type::{{{SMWHasType|Text}}}]]'''
+* Predicate class is '''[[HasPredicateClass::{{{PredicateClass|Property}}}]]'''
 
 == All statements for this property "{{PAGENAME}}" ==
 
