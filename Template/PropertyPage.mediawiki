@@ -1,7 +1,7 @@
 <includeonly>
 * Has type::'''[[Has type::{{{SMWHasType|Text}}}]]'''
 * [[Property:eppo0:hasPredicateClass]]::'''[[eppo0:hasPredicateClass::{{{PredicateClass|Property}}}]]'''
-* [[Property:namespace]]::'''[[namespace::{{#explode:{{PAGENAME}}|:|0}}]]'''
+* [[Property:ds0:namespace]]::'''[[ds0:namespace::{{#explode:{{PAGENAME}}|:|0}}]]'''
 
 == All statements for this property "{{PAGENAME}}" ==
 
