@@ -1,6 +1,10 @@
 <nowiki>{{{</nowiki>for template<nowiki>|</nowiki>Annotation<nowiki>|</nowiki>multiple<nowiki>|</nowiki>add button text=Add a property<nowiki>}}}</nowiki>
 {|class=formtable
-|[[Concept:{{{dynamicPropertiesConcept}}}]]<nowiki>{{{</nowiki>field<nowiki>|</nowiki>AnnotationPredicate<nowiki>|</nowiki>input type=combobox<nowiki>|</nowiki>values from concept={{{dynamicPropertiesConcept}}}<nowiki>}}}</nowiki>
-|<nowiki>{{{</nowiki>field<nowiki>|</nowiki>AnnotationObject<nowiki>|</nowiki>input type=text<nowiki>}}}</nowiki>
+|Predicate:<br/>
+<nowiki>{{{</nowiki>field<nowiki>|</nowiki>AnnotationPredicate<nowiki>|</nowiki>input type=combobox<nowiki>|</nowiki>values from concept={{{dynamicPropertiesConcept}}}<nowiki>|</nowiki>size=70<nowiki>|</nowiki>mapping template=AnnotationPredicateMap<nowiki>}}}</nowiki><br/>
+Suggested predicates originate from [[Concept:{{{dynamicPropertiesConcept}}}]].
+|Object:<br/>
+<nowiki>{{{</nowiki>field<nowiki>|</nowiki>AnnotationObject<nowiki>|</nowiki>input type=combobox<nowiki>|</nowiki>values={{#invoke:{{{dynamicPropertiesModule}}}|show|[[Property:+]][[ds0:namespace::Mwstake]]}}<nowiki>|</nowiki>delimiter=;<nowiki>|</nowiki>size=70<nowiki>}}}</nowiki><br/>
+Suggested objects originate from [[Module:ObjectValues]].
 |}
 <nowiki>{{{</nowiki>end template<nowiki>}}}</nowiki>
