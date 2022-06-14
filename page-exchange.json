@@ -55,6 +55,11 @@
           "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/AnnotationPredicateMap.mediawiki"
         },
         {
+          "name": "AnnotationObjectMap",
+          "namespace": "NS_TEMPLATE",
+          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/AnnotationObjectMap.mediawiki"
+        },
+        {
           "name": "eppo0:hasPredicateClass",
           "namespace": "SMW_NS_PROPERTY",
           "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Property/eppo0:hasPredicateClass.mediawiki"
