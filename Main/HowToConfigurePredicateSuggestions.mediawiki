@@ -2,4 +2,22 @@
 |eppo0:hasEntityTitle=How to configure predicate suggestions
 |eppo0:hasEntityBlurb=Keep your wiki's properties tight and coherent
 }}
-Each of your {{#switchtablink:All EPPO topic types|EPPO topic types|EPPO}} has its own form which loads <code>StandardFormSections</code> for whose <code>dynamicPropertiesConcept</code> parameter you can set a concept.
+== Understand ==
+
+# Each of your {{#switchtablink:All EPPO topic types|EPPO topic types|EPPO}} has its own form.
+# Each EPPO topic type form loads <code>StandardFormSections</code>.
+# <code>StandardFormSections</code> has an optional <code>dynamicPropertiesConcept</code> parameter for which you can set a concept.
+# <code>dynamicPropertiesConcept</code>'s default value is [[Concept:AllPredicates]].
+
+== Example ==
+
+Here's an example for <code>Form:Aspect</code>:
+
+ &#123;&#123;&#123;info|add title=New Aspect|edit title=Edit Aspect|page name=C<unique number;random;10>&#125;&#125;&#125;
+ &#123;&#123;FormHeader|Aspect&#125;&#125;
+ &#123;&#123;StandardFormSections|'''dynamicPropertiesConcept=EPPOPredicates'''&#125;&#125;
+ &#123;&#123;FormFooter|Aspect&#125;&#125;
+{{Annotation
+|AnnotationPredicate=Eppo0:belongs_to_context
+|AnnotationObject=MWStake system explanation
+}}

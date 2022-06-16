@@ -2,7 +2,7 @@
 {|class=formtable
 |Predicate:<br/>
 <nowiki>{{{</nowiki>field<nowiki>|</nowiki>AnnotationPredicate<nowiki>|</nowiki>input type=combobox<nowiki>|</nowiki>values from concept={{{dynamicPropertiesConcept}}}<nowiki>|</nowiki>size=70<nowiki>|</nowiki>mapping template=AnnotationPredicateMap<nowiki>}}}</nowiki><br/>
-Suggested predicates originate from [[Concept:{{{dynamicPropertiesConcept}}}]]. [[HowToConfigurePredicateSuggestions|How to change this?]]
+Suggested predicates originate from [[Concept:{{{dynamicPropertiesConcept}}}]].<br/>[[HowToConfigurePredicateSuggestions|How to change this?]]
 |Object:<br/>
 <nowiki>{{{</nowiki>field<nowiki>|</nowiki>AnnotationObject<nowiki>|</nowiki>input type=combobox<nowiki>|</nowiki>values={{#invoke:{{{dynamicPropertiesModule}}}|show|[[Property:+]][[ds0:namespace::Mwstake]]}}<nowiki>|</nowiki>delimiter=;<nowiki>|</nowiki>size=70<nowiki>|</nowiki>mapping template=AnnotationObjectMap<nowiki>}}}</nowiki><br/>
 Suggested objects originate from [[Module:ObjectValues]].
