@@ -1,0 +1,5 @@
+{{Setup
+|eppo0:hasEntityTitle=How to configure predicate suggestions
+|eppo0:hasEntityBlurb=Keep your wiki's properties tight and coherent
+}}
+Each of your {{#switchtablink:All EPPO topic types|EPPO topic types|EPPO}} has its own form which loads <code>StandardFormSections</code> for whose <code>dynamicPropertiesConcept</code> parameter you can set a concept.
