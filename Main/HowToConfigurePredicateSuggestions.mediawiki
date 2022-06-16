@@ -8,7 +8,7 @@
 # Each EPPO topic type form loads <code>StandardFormSections</code>.
 # <code>StandardFormSections</code> has an optional <code>dynamicPropertiesConcept</code> parameter for which you can set a concept.
 # <code>dynamicPropertiesConcept</code>'s default value is [[Concept:AllPredicates]].
-# All active concepts are listed at {{#switchtablink:All concepts|All concepts|EPPO}}.
+# All active concepts are listed at {{#switchtablink:All EPPO topic types|All concepts|EPPO}}.
 
 == Example ==
 
