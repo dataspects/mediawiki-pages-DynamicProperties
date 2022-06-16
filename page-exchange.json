@@ -66,7 +66,7 @@
         },
         {
           "name": "HowToConfigurePredicateSuggestions",
-          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Property/HowToConfigurePredicateSuggestions.mediawiki"
+          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Main/HowToConfigurePredicateSuggestions.mediawiki"
         }
       ],
       "requiredExtensions": ["PageForms", "SemanticMediaWiki"]
