@@ -2,5 +2,5 @@
 |[[{{#explode:{{{1}}}|#|0}}]]
 |{{PropName|{{PAGENAME}}}}
 |
-*{{PropVal|{{#ifeq:{{#show:Property:{{PAGENAME}}|?Has type|link=none}}|Page|{{#arraymap:{{{2}}}|;|@@@0@@@|[[@@@0@@@]]|\n*}}|{{#arraymap:{{{2}}}|;|@@@0@@@|@@@0@@@|\n*}}}}}}
+*{{PropVal|{{{2}}}}}
 |-</includeonly>

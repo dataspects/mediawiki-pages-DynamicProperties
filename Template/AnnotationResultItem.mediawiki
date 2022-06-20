@@ -1,1 +1,1 @@
-* {{PropName|{{#formredlink:target=Property:{{{1}}}|form=Property|link text={{{1}}}|existing page link text={{{1}}}|tooltip=Click to initialize this property...}}}}::{{#if:{{{2|}}}|{{PropVal|{{#switch:{{#show:Property:{{{1}}}|?Has type|link=none}}|Page=[[{{{2}}}|{{#getdisplaytitle:{{{2}}}}}]]|URL={{#replace:{{{2}}}| |%20}}|{{{2}}}}}}}}}
+* {{PropName|{{#formredlink:target=Property:{{{1}}}|form=Property|link text={{{1}}}|existing page link text={{{1}}}|tooltip=Click to initialize this property...}}}}::{{#if:{{{2|}}}|{{PropVal|{{{2}}}}}}}
