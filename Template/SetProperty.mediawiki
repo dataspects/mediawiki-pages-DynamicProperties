@@ -1,1 +1,2 @@
-<noinclude>The Template:Property is used for free annotation declaration by the user.</noinclude><includeonly>{{PropVal|{{{2}}}}}{{#subobject:|AnnotationSubject={{FULLPAGENAME}}|AnnotationPredicate={{{1}}}|AnnotationObject={{{2|}}} }}</includeonly>
+<noinclude>The Template:Property is used for free annotation declaration by the user.</noinclude><includeonly>{{#set:{{#ifeq:{{#explode:{{{1}}}|:|0}}|Property|
+{{#explode:{{{1}}}|:|1|2}}|{{{1}}}}}={{{2|}}}|+sep=;}}{{{2}}}{{#subobject:|AnnotationSubject={{FULLPAGENAME}}|AnnotationPredicate={{{1}}}|AnnotationObject={{{2|}}} }}</includeonly>
