@@ -15,9 +15,14 @@
           "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/Annotation.mediawiki"
         },
         {
-          "name": "Property",
+          "name": "SetProperty",
           "namespace": "NS_TEMPLATE",
-          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/Property.mediawiki"
+          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/SetProperty.mediawiki"
+        },
+        {
+          "name": "ShowProperty",
+          "namespace": "NS_TEMPLATE",
+          "url": "https://raw.githubusercontent.com/dataspects/mediawiki-pages-DynamicProperties/master/Template/ShowProperty.mediawiki"
         },
         {
           "name": "ForTemplateAnnotation",
