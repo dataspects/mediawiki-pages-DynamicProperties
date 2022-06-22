@@ -6,4 +6,4 @@ The Template:Annotation is not meant to be used freely by users. For free annota
 </noinclude>
 <includeonly>{{#if:{{{AnnotationPredicate|}}}|{{#set:{{#ifeq:{{#explode:{{{AnnotationPredicate}}}|:|0}}|Property|
 {{#explode:{{{AnnotationPredicate}}}|:|1|2}}|{{{AnnotationPredicate}}}}}={{{AnnotationObject|}}}|+sep=;}}{{#subobject:AnnotationSubject={{FULLPAGENAME}}|AnnotationPredicate={{#ifeq:{{#explode:{{{AnnotationPredicate}}}|:|0}}|Property|
-{{#explode:{{{AnnotationPredicate}}}|:|1|2}}|{{{AnnotationPredicate}}}}}|AnnotationObject={{{AnnotationObject|}}}}}|'''{{wr|Error:MissingAnnotationPredicate}}'''}}</includeonly><noinclude>[[Category:dataspectsSystemCoreOntology]]</noinclude>
+{{#explode:{{{AnnotationPredicate}}}|:|1|2}}|{{{AnnotationPredicate}}}}}|AnnotationObject={{{AnnotationObject|}}}}}|'''{{wr|Error:MissingAnnotationPredicate}}'''}}</includeonly>
